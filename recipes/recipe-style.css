@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding-left: 10px;
+    background-color: rebeccapurple;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.137);
+    align-items: center;
+}
