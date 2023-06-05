@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding-left: 10px;
-    background-color: rebeccapurple;
+    background-color: rgba(238, 203, 7, 0.5);
 }
 
 h1 {
@@ -13,5 +13,5 @@ h1 {
 img {
     border-radius: 5px;
     border: 2px solid rgba(0, 0, 0, 0.137);
-    align-items: center;
+    align-content: center;
 }
