@@ -1,16 +1,19 @@
 body {
     margin: 0px;
-    padding: 0px;
-    border: 0px;
-    background-image: url("./images/recipes.png");
+    padding: 2px;
+    background-image: url(./images/recipes.png);
+    background-size: auto 100vw;
+    background-repeat: no-repeat;
 }
 
-img {
-    height: 290px;
-    width: 490px;
-    border-radius: 3px;
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
 }
 
-.none {
-    list-style-type: none;
+.img1 {
+    border: 2px solid rgba(0, 0, 0, 0.411);
+    border-radius: 10px;
+    margin-left: 23px;
 }
